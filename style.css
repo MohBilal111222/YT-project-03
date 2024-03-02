@@ -1,0 +1,115 @@
+html,
+body{
+    height: 100%;
+    margin: 0%;
+    font-size: 16px;
+    font-family: "Lato" , sans-serif;
+    font-weight: 400;
+    line-height: 1.6em;
+    color: #666;
+}
+
+
+.img01 {
+    background-image: url(image1.png);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.img02 {
+    background-image: url(image2.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.img03 {
+    background-image: url(image3.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img04 {
+    background-image: url(f54b77cf5ed76d5e8bcd5e1a6179cf5e.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+.center{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+.textbg{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+
+.section-light{
+    background-color: black;
+    color: #ddd;
+    }
